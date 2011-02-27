@@ -1,0 +1,12 @@
+.htaccess
+*.bak
+*.dump
+*.db
+*.log
+*.pid
+pip-log.txt
+.project
+.pydevproject
+*.pyc
+.svn
+*.DS_Store
