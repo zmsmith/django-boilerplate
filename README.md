@@ -1,0 +1,1 @@
+Initial Layout for a Django project - just the way I like it.
